@@ -43,8 +43,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://your-solution-url.com)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/age-calculator-app-using-tailwindcss-aRtROQGwQS)
+- Live Site URL: [live site URL](https://yassine-ramla.github.io/Frontend-Mentor-Age-calculator-app/)
 
 ## My process
 
